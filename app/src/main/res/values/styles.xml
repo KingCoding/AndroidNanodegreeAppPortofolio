@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <color name="white">#FFFFFF</color>
+    <color name="pre_capstone_color">#AFB42B</color>
+    <color name="capstone_color">#827717</color>
+    <color name="layout_color">#CFD8DC</color>
+</resources>
